@@ -34,7 +34,7 @@ Most importantly, the error.log on these production environments has remained cl
 > Of course, if errors appear, they will be fixed if possible :)
 
 ### Production Example
-For a real-world example of this PR in action, you can visit small multilanguage website: https://isoap.ge
+For a real-world example in action, you can visit small multilanguage website: https://isoap.ge
 - Core: **OC ++** from this repository.
 - Framework: Running flawlessly on Journal v.3.2.8.7.
 - Stability: Zero errors in the logs.
